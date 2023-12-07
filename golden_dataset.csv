@@ -1,0 +1,12 @@
+species;island;bill_length_mm;bill_depth_mm;flipper_length_mm;body_mass_g;sex
+Adelie;Torgersen;391;187;181;3750;MALE
+Adelie;Torgersen;395;174;186;3800;FEMALE
+Adelie;Biscoe;378;183;174;3400;FEMALE
+Adelie;Biscoe;377;187;180;3600;MALE
+Adelie;Dream;395;167;178;3250;FEMALE
+Adelie;Dream;372;181;178;3900;MALE
+Chinstrap;Dream;465;179;192;3500;FEMALE
+Chinstrap;Dream;50;195;196;3900;MALE
+Gentoo;Biscoe;461;132;211;4500;FEMALE
+Gentoo;Biscoe;50;163;230;5700;MALE
+Gentoo;Biscoe;487;141;210;4450;FEMALE
