@@ -21,7 +21,7 @@ Y = dataset.iloc[:, -1]
 scaler_path = 'ml_model/scaler.pkl'
 scaler = Model.carrega_scaler(scaler_path)
 
-# Método para testar o modelo de Regressão Logística a partir do arquivo correspondente
+# Método para testar o modelo a partir do arquivo correspondente
 # O nome do método a ser testado necessita começar com "test_"
 def test_modelo_cart():  
     # Importando o modelo
